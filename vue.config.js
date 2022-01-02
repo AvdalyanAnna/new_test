@@ -1,7 +1,7 @@
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
     ? '/new_test/'
-    : '/',
+    : '/new_test/',
 
   assetsDir: '',
   productionSourceMap: false,
